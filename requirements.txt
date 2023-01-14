@@ -1,0 +1,4 @@
+## Requirements for spotify_images
+pillow
+spotipy
+opencv-contrib-python
